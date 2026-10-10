@@ -1,0 +1,8 @@
+PORTFOLIO COUNTERPARTY CREDIT RISK REPORT
+==================================================
+Portfolio Notional:          $100,000,000
+Current Exposure (t=0):      $0.00
+Expected Positive Exp (EPE): $56,053,846.27
+Baseline CVA:                $4,862,369.33
+WWR CVA:                     $31,421,758.98
+Regulatory SA-CCR EAD:       $3,542,000.00
